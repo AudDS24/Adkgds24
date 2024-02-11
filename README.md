@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AudDS24
+- 👋 Hi, I’m @Adkgds24
 - 👀 I’m interested in Data Science, ML and AI
 - 🌱 I’m currently learning Data Science, Python and ML
 - 💞️ I’m looking to collaborate on 
